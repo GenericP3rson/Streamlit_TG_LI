@@ -1,0 +1,16 @@
+'''
+Rename this to cred.py
+'''
+
+
+# TigerGraph Cloud Credentials
+
+SUBDOMAIN = "https://SUBDOMAIN.i.tgcloud.io"
+TIGERGRAPH_USERNAME = "TG_USER"
+TIGERGRAPH_PASSWORD = "TG_PASSWORD"
+GRAPHNAME = "GRAPHNAME"
+
+# Graphistry Credentials
+
+GRAPHISTRY_USERNAME = "GRAPHISTRY_USERNAME"
+GRAPHISTRY_PASSWORD = "GRAPHISTRY_PASSWORD"
